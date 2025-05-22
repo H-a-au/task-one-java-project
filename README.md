@@ -29,8 +29,6 @@ A Spring Boot application showcasing Thymeleaf templates and static resource han
 ![localhost_8080 - Google Chrome 5_21_2025 9_55_23 PM](https://github.com/user-attachments/assets/bbe44dca-7151-4e9a-b328-432471867800)
 
 
-![death-the-kid png (360×306) - Google Chrome 5_17_2025 9_24_17 PM](https://github.com/user-attachments/assets/06fd9562-e466-4a88-87a7-35d6c0ad99bd)
-
 
 
 ---
